@@ -2,11 +2,13 @@ Pasta dedicada à entrega do MVP de Engenharia de Dados.
 
 Na pasta anexei os scripts em Python dos códigos criados no Databricks, o catálogo dos dados e as evidências da utilização de AWS Cloud para armazenamento dos dados e Databricks para ETL e análises.
 
-Atualmente trabalho em um grupo de educação e escolhi como temática para o meu MVP uma análise acerca da modalidade de ensino (presencial e à distância). Para isso, utilizei os dados disponibilizados pelo Censo do ano de 2019 a 2022, que foi o ano do último relatório disponibilizado.
+Atualmente trabalho em um grupo de educação e escolhi como temática para o meu MVP uma análise acerca da modalidade de ensino (presencial e à distância). Para isso, utilizei os dados disponibilizados pelo Inep do ano de 2019 a 2022, que foi o ano do último relatório disponibilizado.
 
 Qualquer dúvida, me coloco à disposição.
 
 Link workspace ETL: https://community.cloud.databricks.com/?o=1490487843987972#notebook/2049840781721873
 Link workspacke Análise de Dados: https://community.cloud.databricks.com/?o=1490487843987972#notebook/2049840781721871
+
+Acesso aos dados: Fonte: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior
 
 E-mail: anagabrielavalente@gmail.com
